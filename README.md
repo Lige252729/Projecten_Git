@@ -1,2 +1,2 @@
 # Projecten_Git
-project
+dit is de voorpagina van mijn aller eerste pagina voor het vak GUI
